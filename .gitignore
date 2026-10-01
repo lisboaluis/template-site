@@ -1,0 +1,18 @@
+# Gerados automaticamente pela skill impeccable
+.impeccable/hook.cache.json
+.impeccable/review/
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.log
+__pycache__/
+
+# Lixo de zip criado no Mac
+__MACOSX/
+._*

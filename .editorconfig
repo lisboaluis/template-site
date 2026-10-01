@@ -1,0 +1,11 @@
+# Mantém o mesmo formato de arquivo no Mac e no Windows.
+# VS Code: instale a extensão "EditorConfig for VS Code" para ele seguir este arquivo.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+
+[*.{cmd,bat,ps1}]
+end_of_line = crlf
